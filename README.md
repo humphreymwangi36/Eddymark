@@ -1,2 +1,2 @@
 # Eddymark
-Is an online hostel management system for a specific institution
+Is an online shopping that enables users to get goods on credit
